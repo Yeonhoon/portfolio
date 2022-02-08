@@ -1,0 +1,18 @@
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # template: sections/skill.html
+  
+skills:
+- name: R
+  logo: "/images/sections/skills/R.png"
+  summary: "Using as the main language for data analysis. Capable of data preprocessing, statistical analysis, creating table, data visualization"
+  url: "https://kubernetes.io/"
+
+- name: Python
+  logo: "/images/sections/skills/python.png"
+  summary: "Capable of data preprocessing, modeling, visualization with pandas, numpy, seaborn."
+  url: "https://golang.org/"

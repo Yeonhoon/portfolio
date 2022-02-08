@@ -1,0 +1,20 @@
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # template: sections/experiences.html
+
+experiences:
+- company:
+    name: SNUBH HIRC.
+    url:
+    location: Bundang, Gyeonggido, South Korea
+    overview:
+  position:
+    - designation: Healthcare Data scientist
+      start: June 2021
+      responsibilites:
+        - Korean National Healthcare Institute System data analysis
+        - EHR analysis [MIMIc-IV](https://mimic.mit.edu/)

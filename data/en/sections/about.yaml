@@ -1,0 +1,39 @@
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+  
+
+designation: Data Scientist
+
+company:
+  name: SNUBH
+  url: "https://www.snubh.org/index.do"
+  
+summary: 'I am a passionate data scientist having interest in healthcare.'
+
+socialLinks: 
+# font awesome
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/Yeonhoon"
+- name: Gmail
+  icon: "fas fa-envelope "
+  url: "https://gmail.com"
+- name: linkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/%EC%9E%A5%EC%97%B0%ED%9B%88-b91b84226/"
+
+softSkills:
+- name: Leadership
+  percentage: 90
+  color: orange
+- name: Team Work
+  percentage: 80
+  color: blue
+- name: Communication
+  percentage: 85
+  color: green
